@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/0ddFl3xx/0ddFl3xx/blob/main/header.png" alt="Thuli's banner"/>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -22,10 +22,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
 </p>
 
-<h3 align="left">My Stats:</h3>
+<h3 align="center">My Stats:</h3>
 
+<p align="center"> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ddFl3xx)](https://git.io/streak-stats)
 
 [![0ddFl3xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ddFl3xx&show_icons=true&theme=tokyonight)](https://github.com/0ddFl3xx/github-readme-stats)
-
+</p>
 
