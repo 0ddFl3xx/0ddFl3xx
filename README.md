@@ -7,9 +7,12 @@
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
+<p align="left">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="Python" width="40" height="40"/>
+</p>
   
 
 <h3 align="left">Frontend Tech</h3>
