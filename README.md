@@ -8,7 +8,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Js" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Ts" width="40" height="40"/> 
-<p> Next.js</p>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Ts" width="40" height="40"/> 
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Next.js" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>
