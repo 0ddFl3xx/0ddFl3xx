@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/0ddFl3xx/0ddFl3xx/blob/main/header.png" alt="Thuli's banner"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thuli-w-brown-b89771217/ target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin" height="30" width="40" /></a>
