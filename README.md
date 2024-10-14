@@ -23,7 +23,9 @@
 </p>
 
 <h3 align="center">My Stats:</h3>
-
+<p align="center>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ddFl3xx)](https://git.io/streak-stats)
+</p>
 
 
