@@ -1,4 +1,3 @@
-<img align="center" src="https://github.com/0ddFl3xx/0ddFl3xx/blob/main/header.png" alt="Thuli's banner"/>
 
 
 <h3 align="center">Languages and Tools:</h3>
