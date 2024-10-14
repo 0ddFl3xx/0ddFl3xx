@@ -1,9 +1,1 @@
-- 👋 Hi, I’m 0dd. Full stack web dev.
-
-- Next.js is my preferred weapon of choice!
-
-
-<!---
-0ddFl3xx/0ddFl3xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![0ddFl3xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ddFl3xx)](https://github.com/0ddFl3xx/github-readme-stats)
