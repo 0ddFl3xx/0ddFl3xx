@@ -3,7 +3,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ddFl3xx)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0ddFl3xx)](https://git.io/streak-stats)
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
