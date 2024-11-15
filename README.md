@@ -3,7 +3,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0ddFl3xx)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0ddFl3xx&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
